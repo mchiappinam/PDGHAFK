@@ -1,0 +1,8 @@
+name: PDGHAFK
+main: me.mchiappinam.pdghafk.Main
+description: Kicks afk players.
+version: 1.0
+permissions:
+  afk_kicker.ignore:
+    description: Prevent player from kick
+    default: op
